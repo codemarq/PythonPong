@@ -13,7 +13,7 @@ Pong Arcade Classic written in Python.
 * CodeSkulptor
 
 ## Author
-John-Mike Marquardt
+&copy; 2016 John-Mike Marquardt [Github](https://github.com/codemarq) | [jmmarquardt.com](https://jmmarquardt.com) | [LinkedIn](https://www.linkedin.com/in/jmmarquardt)
 
 ## Acknowledgements
 - Rice University Intro to Programming in Python, Coursera
